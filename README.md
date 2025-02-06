@@ -1,2 +1,2 @@
-# paint_app
+# React-Paint-App
 Created with CodeSandbox
